@@ -1,4 +1,4 @@
-# youth-obesity-risk-behaviors
+# youth-obesity-risk-factors
 Obesity is a condition defined by the [World Health Organization](https://www.who.int/topics/obesity/en/) as a "major risk factor for a number of chronic diseases, including diabetes, cardiovascular diseases and cancer" and a leading preventable cause of death in the United States and worldwide.
 It is also a condition that is seen increasingly in children.
 The [Youth Risk Behavior Surveillance System (YRBSS)](https://www.cdc.gov/healthyyouth/data/yrbs/overview.htm) was developed in 1990 by the Centers for Disease Control and Prevention (CDC) to study obesity and other health outcomes and associated risk factors among youth in the United States.
