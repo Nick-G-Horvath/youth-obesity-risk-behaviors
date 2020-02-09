@@ -17,6 +17,6 @@ This project uses the [math](https://docs.python.org/3/library/math.html) librar
 
 [Nutrition__Physical_Activity__and_Obesity_-_Youth_Risk_Behavior_Surveillance_System.csv](https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Youth-Risk/vba9-s8jp) contains information on the prevalence of youth obesity and associated risk factors gathered from the YRBSS.
 
-[Nutrition__Physical_Activity__and_Obesity_-_Policy_and_Environmental_Data.csv](https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Policy-and/k8w5-7ju6) contains information on state policy and environmental factors.
+[Nutrition__Physical_Activity__and_Obesity_-_Policy_and_Environmental_Data.csv](https://github.com/Nick-G-Horvath/youth-obesity-risk-factors/blob/master/Nutrition__Physical_Activity__and_Obesity_-_Policy_and_Environmental_Data.csv) contains information on state policy and environmental factors.
 
 [CDC_obesity.ipynb](https://github.com/Nick-G-Horvath/youth-obesity-risk-factors/blob/master/CDC_obesity.ipynb) contains all data analysis, visualization, and discussion.
