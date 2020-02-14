@@ -19,4 +19,4 @@ This project uses the [math](https://docs.python.org/3/library/math.html) librar
 
 [Policy_and_Environmental_Data.csv](https://github.com/Nick-G-Horvath/youth-obesity-risk-factors/blob/master/Policy_and_Environmental_Data.csv) contains information on state policy and environmental factors.
 
-[youth-obesity-risk-factors.ipynb](https://github.com/Nick-G-Horvath/youth-obesity-risk-factors/blob/master/youth-obesity-risk-factors.ipynb) contains all data analysis, visualization, and discussion.
+[youth_obesity_risk_factors.ipynb](https://github.com/Nick-G-Horvath/youth-obesity-risk-factors/blob/master/[youth_obesity_risk_factors.ipynb) contains all data analysis, visualization, and discussion.
